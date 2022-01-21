@@ -1,0 +1,20 @@
+body{
+    background-color: linear-gradient(#fc0505 0%, #2793ae 100%);
+}
+#title{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.btn{
+    font-family: cursive;
+    color: red;
+    display: inline-block;
+    border-radius: 50%;
+    size: 50px;
+}
+.btn:hover{
+    font-family: cursive;
+    display: inline-block;
+    border-radius: 50%;
+    size: 75px;
+}
